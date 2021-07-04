@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-skate-trick-generator/static/css/main.d74626f9.chunk.css",
+    "main.js": "/random-skate-trick-generator/static/js/main.8c01069c.chunk.js",
+    "main.js.map": "/random-skate-trick-generator/static/js/main.8c01069c.chunk.js.map",
+    "runtime-main.js": "/random-skate-trick-generator/static/js/runtime-main.139df720.js",
+    "runtime-main.js.map": "/random-skate-trick-generator/static/js/runtime-main.139df720.js.map",
+    "static/js/2.0c7e0f2e.chunk.js": "/random-skate-trick-generator/static/js/2.0c7e0f2e.chunk.js",
+    "static/js/2.0c7e0f2e.chunk.js.map": "/random-skate-trick-generator/static/js/2.0c7e0f2e.chunk.js.map",
+    "static/js/3.cd8b3374.chunk.js": "/random-skate-trick-generator/static/js/3.cd8b3374.chunk.js",
+    "static/js/3.cd8b3374.chunk.js.map": "/random-skate-trick-generator/static/js/3.cd8b3374.chunk.js.map",
+    "index.html": "/random-skate-trick-generator/index.html",
+    "static/css/main.d74626f9.chunk.css.map": "/random-skate-trick-generator/static/css/main.d74626f9.chunk.css.map",
+    "static/js/2.0c7e0f2e.chunk.js.LICENSE.txt": "/random-skate-trick-generator/static/js/2.0c7e0f2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.139df720.js",
+    "static/js/2.0c7e0f2e.chunk.js",
+    "static/css/main.d74626f9.chunk.css",
+    "static/js/main.8c01069c.chunk.js"
+  ]
+}
