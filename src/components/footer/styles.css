@@ -1,0 +1,13 @@
+.footer {
+  margin-top: 1rem;
+  padding-bottom: 2rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+hr {
+  width: 80%;
+}

@@ -1,0 +1,16 @@
+.play-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.go-back {
+  /* margin: 3rem 0 5rem 0; */
+}
+
+.trick {
+  text-transform: uppercase;
+  padding: 1rem;
+}
